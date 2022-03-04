@@ -1,0 +1,12 @@
+﻿/* TEAM */
+
+	UI and Backend Developer: Aadish Garg
+	Linkedin: https://www.linkedin.com/in/adish-garg-0250a7125/
+	From:Delhi,India
+
+
+/* SITE */
+	Last update:30/11/2020
+	Language: English
+	Doctype:HTML
+	IDE: Brackets
